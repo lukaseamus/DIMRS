@@ -724,7 +724,7 @@ Splot <- ggplot(Sstat, mapping = aes(group1, mean)) +
                             width = .1, lwd = .4) +
               geom_text(aes(x = group1, y = mean + se + 0.15,
                             label = c("a","a","a","b"))) +
-              ylab("Morphospecies richness") +
+              ylab("Number of morphologies") +
               coord_cartesian(ylim = c(0.285, 6)) +
               mytheme
 Splot # dimensions: 4.5 x 4 in

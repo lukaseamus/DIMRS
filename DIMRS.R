@@ -6,7 +6,7 @@
 
 #### Univariate data ####
 ### Load data ####
-danju <- read.csv("~/Desktop/Projects/Danjugan/DIMRS.csv")
+danju <- read.csv("~/PATH/DIMRS.csv")
 
 ### Data wrangling ####
 ## Response variables ####

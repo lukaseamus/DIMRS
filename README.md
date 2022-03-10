@@ -1,5 +1,5 @@
 # Small no-take areas benefit hard corals more than regulation through fishing permits
-This repository contains data and R code accompanying article  in *Aquatic Conservation: Marine and Freshwater Ecosystems*.
+This repository contains data and R code accompanying article 10.1002/aqc.3814 in *Aquatic Conservation: Marine and Freshwater Ecosystems*.
 
 The repository contains a single dataframe (`DIMRS.csv`) and a corresponding R script (`DIMRS.R`). The former is arranged in tidy format, meaning columns are variables and rows are replicates, and has the variables
 - *lat* = categorical latitude with levels "North" and "South"

@@ -14,7 +14,7 @@ The repository contains a single dataframe (`DIMRS.csv`) and a corresponding R s
 - *SI* = silt (%)
 - *SC* = soft coral (%)
 - *SP* = sponge (%)
-- *OT* = other, e.g. anemone (%)
+- *OT* = other, e.g. anemone, giant clam etc. (%)
 - *TR* = trash, e.g. plastic litter (%)
 - *LC* = live coral (% of hard coral)
 - *DC* = dead coral (% of hard coral)
